@@ -1,5 +1,5 @@
 # Bikcraft
-Criação (em processo) do site bikcraft, projeto da **[Origamid](https://www.origamid.com/)**
+Criação (em processo) do site bikcraft, projeto da **[Origamid](https://www.origamid.com/)**.
 
 # Tecnologias utilizadas
 - **HTML5**
